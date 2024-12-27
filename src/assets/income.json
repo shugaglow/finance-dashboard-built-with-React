@@ -1,0 +1,159 @@
+{
+    "income" : [
+    {
+        "amount" : 100000,
+        "date": "19 March 2024"
+    },
+
+    {
+        "amount" : 80000,
+        "date": "19 March 2024"
+    },
+
+    {
+        "amount" : 2000,
+        "date": "19 March 2024"
+    }
+
+], 
+
+"crypto" : [
+    {
+        "amount" : 100000,
+        "date": "19 March 2024"
+    },
+
+    {
+        "amount" : 80000,
+        "date": "19 March 2024"
+    },
+
+    {
+        "amount" : 2000,
+        "date": "19 March 2024"
+    }
+
+],
+
+"total" : [
+    {
+        "amount" : 100000,
+        "date": "19 March 2024"
+    },
+
+    {
+        "amount" : 80000,
+        "date": "19 March 2024"
+    },
+
+    {
+        "amount" : 2000,
+        "date": "19 March 2024"
+    }
+
+],
+
+"fiatexpenses" : [
+    {
+        "amount" : 100000,
+        "date": "19 March 2024"
+    },
+
+    {
+        "amount" : 80000,
+        "date": "19 March 2024"
+    },
+
+    {
+        "amount" : 2000,
+        "date": "19 March 2024"
+    }
+],
+
+"cryptoexpenses" : [
+    {
+        "amount": 0.005863,
+        "date": "19 March 2024"
+    },
+    {
+        "amount": 0.23000,
+        "date": "19 March 2024"
+    },
+    {
+        "amount": 0.006854,
+        "date": "19 March 2024"
+    }
+
+],
+
+"totalexpenses" : [
+    {
+        "amount" : 100000,
+        "date": "19 March 2024"
+    },
+
+    {
+        "amount" : 80000,
+        "date": "19 March 2024"
+    },
+
+    {
+        "amount" : 2000,
+        "date": "19 March 2024"
+    }
+
+],
+
+"fiatInvestments" : [
+    {
+        "amount" : 100000,
+        "date": "19 March 2024"
+    },
+
+    {
+        "amount" : 80000,
+        "date": "19 March 2024"
+    },
+
+    {
+        "amount" : 2000,
+        "date": "19 March 2024"
+    }
+],
+
+"cryptoInvestments" : [
+    {
+        "amount": 0.085863,
+        "date": "19 March 2024"
+    },
+    {
+        "amount": 0.563000,
+        "date": "19 March 2024"
+    },
+    {
+        "amount": 0.706854,
+        "date": "19 March 2024"
+    }
+
+],
+
+"totalInvestments" : [
+    {
+        "amount" : 100000,
+        "date": "19 March 2024"
+    },
+
+    {
+        "amount" : 80000,
+        "date": "19 March 2024"
+    },
+
+    {
+        "amount" : 2000,
+        "date": "19 March 2024"
+    }
+
+]
+}
+
+
